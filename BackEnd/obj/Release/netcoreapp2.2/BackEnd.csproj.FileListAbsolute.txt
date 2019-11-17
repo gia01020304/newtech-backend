@@ -1,0 +1,16 @@
+D:\Study\CNNew\BackEnd\BackEnd\bin\Release\netcoreapp2.2\appsettings.Development.json
+D:\Study\CNNew\BackEnd\BackEnd\bin\Release\netcoreapp2.2\appsettings.json
+D:\Study\CNNew\BackEnd\BackEnd\bin\Release\netcoreapp2.2\Properties\launchSettings.json
+D:\Study\CNNew\BackEnd\BackEnd\bin\Release\netcoreapp2.2\BackEnd.deps.json
+D:\Study\CNNew\BackEnd\BackEnd\bin\Release\netcoreapp2.2\BackEnd.runtimeconfig.json
+D:\Study\CNNew\BackEnd\BackEnd\bin\Release\netcoreapp2.2\BackEnd.runtimeconfig.dev.json
+D:\Study\CNNew\BackEnd\BackEnd\bin\Release\netcoreapp2.2\BackEnd.dll
+D:\Study\CNNew\BackEnd\BackEnd\bin\Release\netcoreapp2.2\BackEnd.pdb
+D:\Study\CNNew\BackEnd\BackEnd\obj\Release\netcoreapp2.2\BackEnd.csprojAssemblyReference.cache
+D:\Study\CNNew\BackEnd\BackEnd\obj\Release\netcoreapp2.2\BackEnd.RazorAssemblyInfo.cache
+D:\Study\CNNew\BackEnd\BackEnd\obj\Release\netcoreapp2.2\BackEnd.RazorAssemblyInfo.cs
+D:\Study\CNNew\BackEnd\BackEnd\obj\Release\netcoreapp2.2\BackEnd.AssemblyInfoInputs.cache
+D:\Study\CNNew\BackEnd\BackEnd\obj\Release\netcoreapp2.2\BackEnd.AssemblyInfo.cs
+D:\Study\CNNew\BackEnd\BackEnd\obj\Release\netcoreapp2.2\BackEnd.RazorTargetAssemblyInfo.cache
+D:\Study\CNNew\BackEnd\BackEnd\obj\Release\netcoreapp2.2\BackEnd.dll
+D:\Study\CNNew\BackEnd\BackEnd\obj\Release\netcoreapp2.2\BackEnd.pdb
